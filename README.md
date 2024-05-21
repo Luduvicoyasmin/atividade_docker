@@ -1,3 +1,3 @@
 # atividade_docker
 
-Nome do Peao
+Yasmin Luduvico & Kaique Lira  
